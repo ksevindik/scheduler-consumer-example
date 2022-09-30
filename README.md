@@ -6,3 +6,7 @@ When the bootstrap is complete, you can submit a new job via following command
 The job will be run by the quartz within the next second only once, and you should be able to see create Foo records 
 in the H2 database by accessing browser console http://localhost:8082 and connecting to the DB with URL
 `jdbc:h2:tcp://localhost/h2-data/test`. The Kafka messages can be examined via http://localhost:9000.
+
+### References
+
+* http://www.quartz-scheduler.org/documentation/quartz-2.3.0/configuration/ConfigJDBCJobStoreClustering.html
