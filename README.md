@@ -10,3 +10,4 @@ in the H2 database by accessing browser console http://localhost:8082 and connec
 ### References
 
 * http://www.quartz-scheduler.org/documentation/quartz-2.3.0/configuration/ConfigJDBCJobStoreClustering.html
+* https://medium.com/javarevisited/how-to-cluster-effectively-quartz-jobs-9b097f5e1191
