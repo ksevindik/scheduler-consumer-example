@@ -7,6 +7,8 @@ The job will be run by the quartz within the next second only once, and you shou
 in the H2 database by accessing browser console http://localhost:8082 and connecting to the DB with URL
 `jdbc:h2:tcp://localhost/h2-data/test`. The Kafka messages can be examined via http://localhost:9000.
 
+![class diagram](class_diagram.svg)
+
 ### References
 
 * http://www.quartz-scheduler.org/documentation/quartz-2.3.0/configuration/ConfigJDBCJobStoreClustering.html
