@@ -13,3 +13,4 @@ in the H2 database by accessing browser console http://localhost:8082 and connec
 
 * http://www.quartz-scheduler.org/documentation/quartz-2.3.0/configuration/ConfigJDBCJobStoreClustering.html
 * https://medium.com/javarevisited/how-to-cluster-effectively-quartz-jobs-9b097f5e1191
+* https://lucid.app/lucidchart/52fb9a48-6cae-4bdb-83ea-b07f88e81b82/edit?viewport_loc=29%2C436%2C1046%2C547%2CHWEp-vi-RSFO&invitationId=inv_97a1c482-c3c7-4799-afb6-7d1fc99a5fa8
